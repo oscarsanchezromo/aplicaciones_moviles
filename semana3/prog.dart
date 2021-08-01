@@ -36,8 +36,6 @@ class Sensores{
     }
 
   void mostrar(lista){
-  
-
     print(lista);
     
    }
